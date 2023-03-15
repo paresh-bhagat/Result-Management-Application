@@ -28,5 +28,5 @@ To execute the client process, the IP address and PORT number of server is to be
 ```
 ## Username and Password
 
-* For instructor Username - instructor Password - @instructor
-* For students Username - student1-student20 Password - @student1 - @student20
+* For instructor : Username - instructor, Password - @instructor
+* For students   : Username - student1-student20, Password - @student1 - @student20
