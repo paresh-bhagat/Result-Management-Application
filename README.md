@@ -36,4 +36,4 @@ Default usernames and password mentioned in user_pass.txt.
 
 ## Images
 
-![cr](rma.png)
+![cr](rma.jpg)
