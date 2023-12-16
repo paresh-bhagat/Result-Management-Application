@@ -1,6 +1,8 @@
 # Result-Management-Application
 
-A client-server program where clients (instructor or students) can access their information through their respective password . Instructors can view, delete, update scores and see top scores in each subject.
+* A client-server program where clients (instructor or students) can access their information through their respective password . Instructors can view, delete, update scores and see top scores in each subject.
+* Student marks are saved in student_marks.txt file.
+* Instructor and student username and password are saved in user_pass.txt.
 
 ## Tags
 
@@ -9,7 +11,6 @@ C programming, Socket programming.
 ## Demo
 
 To compile server.c and client.c
-<br/>
 
 ```
 gcc server.c -o server
@@ -28,5 +29,11 @@ To execute the client process, the IP address and PORT number of server is to be
 ```
 ## Username and Password
 
+Default usernames and password mentioned in user_pass.txt.
+
 * For instructor : Username - instructor, Password - @instructor
 * For students   : Username - student1-student20, Password - @student1 - @student20
+
+## Images
+
+![cr](rma.png)
